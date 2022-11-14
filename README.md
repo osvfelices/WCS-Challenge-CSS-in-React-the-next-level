@@ -6,4 +6,4 @@ This is a challenge to create a CSS in React component.
 
 I have decided to use Tailwind for this challenge, and although it was not among the choices of the challenge, it is an option that I really like and I would like to learn more about it.
 
-(image.png)
+![Card](image.png)
